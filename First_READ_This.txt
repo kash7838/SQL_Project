@@ -1,0 +1,17 @@
+1. Download MySQL Workbench and Jupyter Notebook or VS Code
+2. Open MySQL workbench and follow -> EDA_Project_Notebook.sql
+3. Open Jupyter Notebook and follow -> EDA_Analysis_SQL_Python.pdf
+4. Install: pip install mysql-connector-python pandas matplotlib
+
+
+- If working on VS Code
+Create a virtual environment first then install libraries.
+- create venv: python -m venv .sql -> source .sql/bin/activate
+- install: pip install mysql-connector-python pandas matplotlib
+
+
+
+
+
+
+
